@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcore-angular-sample", "aspnetcore-angular-sample.csproj", "{AF66C536-C314-42DB-AB83-C39F1635ECCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF66C536-C314-42DB-AB83-C39F1635ECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF66C536-C314-42DB-AB83-C39F1635ECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF66C536-C314-42DB-AB83-C39F1635ECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF66C536-C314-42DB-AB83-C39F1635ECCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BEED82-29CF-4C30-B64E-1DA65F6120CE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://avolkovich.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = aspnetcore-angular-sample.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
